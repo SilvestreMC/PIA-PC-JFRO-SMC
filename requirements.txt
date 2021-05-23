@@ -1,0 +1,4 @@
+prettytable==2.1.0
+requests==2.25.0
+virustotal_api==1.1.11
+beautifulsoup4==4.9.3
